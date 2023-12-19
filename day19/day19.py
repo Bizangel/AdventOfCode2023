@@ -1,7 +1,7 @@
 from adventlib.fs import read_file_line_splitted
 from re import split
 
-splitted = read_file_line_splitted("day18/input.txt")
+splitted = read_file_line_splitted("day19/input.txt")
 
 operators = set(['<', '>'])
 
